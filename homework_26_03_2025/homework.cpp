@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 
 //Question1 time complexity of O(n), n is the length of the given string, actual executions is n/2.
 void char_swap(char& x, char& y){
